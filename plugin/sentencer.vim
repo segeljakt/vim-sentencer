@@ -16,12 +16,10 @@ command! -nargs=+ SentencerBetween try
 
 command! -nargs=0 SentencerIncrement try 
       \ | exec sentencer#increment()
-      \ | exec sentencer#pattern(s:lo, s:hi)
       \ | catch | echom '[Sentencer]: No sentences found.' | endtry
 
 command! -nargs=0 SentencerDecrement try
       \ | exec sentencer#decrement()
-      \ | exec sentencer#pattern(s:lo, s:hi)
       \ | catch | echom '[Sentencer]: No sentences found.' | endtry
 
 

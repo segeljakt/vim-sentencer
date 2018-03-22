@@ -1,4 +1,3 @@
-let s:null = -1
 let s:lo = 0
 let s:hi = 0
 
@@ -19,6 +18,7 @@ fun! sentencer#increment()
     let s:lo += 1
     let s:hi += 1
   endif
+  return sentencer#pattern(s:lo, s:hi)
 endfun
 
 fun! sentencer#decrement()
@@ -35,6 +35,7 @@ fun! sentencer#decrement()
     let s:lo -= (s:lo > 1)? 1 : 0
     let s:hi -= (s:hi > 1)? 1 : 0
   endif
+  return sentencer#pattern(s:lo, s:hi)
 endfun
 
 fun! s:quantifier(lo, hi)
