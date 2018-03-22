@@ -2,7 +2,12 @@
 
 **Sentencer** offers utilities for finding sentences by their length.
 
-![GIF1](https://media.giphy.com/media/4Tvtr6QPCG8Qi5l1CF/giphy.gif)
+# Feature overview
+
+![GIF1](https://media.giphy.com/media/1XbMaLwy6owRSqLGkh/giphy.gif)
+![GIF2](https://media.giphy.com/media/3rZOGnZhA0B7Xv3d3n/giphy.gif)
+![GIF3](https://media.giphy.com/media/pOqkFVeA9sE3NUt2jt/giphy.gif)
+![GIF4](https://media.giphy.com/media/pqxQiuAkojiSsuMVSv/giphy.gif)
 
 # Commands
 
@@ -14,6 +19,12 @@
 :SentencerIncrement         " Repeat previous search, but increment argument(s)
 :SentencerDecrement         " Repeat previous search, but decrement argument(s)
 ```
+
+# Uses
+
+Sentencer can be used to locate long, difficult to read, sentences.
+
+![GIF4](https://media.giphy.com/media/4Tvtr6QPCG8Qi5l1CF/giphy.gif)
 
 # Options
 
