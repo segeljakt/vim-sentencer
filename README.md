@@ -2,7 +2,7 @@
 
 **Sentencer** offers utilities for finding sentences by their length.
 
-![GIF][https://giphy.com/*]
+![GIF1](https://media.giphy.com/media/4Tvtr6QPCG8Qi5l1CF/giphy.gif)
 
 # Commands
 
@@ -18,7 +18,6 @@
 # Options
 
 None so far.
-
 
 # Future work
 
