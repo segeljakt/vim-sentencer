@@ -4,10 +4,10 @@
 
 # Feature overview
 
-![GIF1](https://media.giphy.com/media/1XbMaLwy6owRSqLGkh/giphy.gif)
-![GIF2](https://media.giphy.com/media/3rZOGnZhA0B7Xv3d3n/giphy.gif)
-![GIF3](https://media.giphy.com/media/pOqkFVeA9sE3NUt2jt/giphy.gif)
-![GIF4](https://media.giphy.com/media/pqxQiuAkojiSsuMVSv/giphy.gif)
+![](https://github.com/segeljakt/assets/blob/master/gif2.gif?raw=true)
+![](https://github.com/segeljakt/assets/blob/master/gif3.gif?raw=true)
+![](https://github.com/segeljakt/assets/blob/master/gif4.gif?raw=true)
+![](https://github.com/segeljakt/assets/blob/master/gif5.gif?raw=true)
 
 # Commands
 
@@ -24,16 +24,5 @@
 
 Sentencer can be used to locate long, difficult to read, sentences.
 
-![GIF4](https://media.giphy.com/media/4Tvtr6QPCG8Qi5l1CF/giphy.gif)
+![](https://github.com/segeljakt/assets/blob/master/gif1.gif?raw=true)
 
-# Options
-
-None so far.
-
-# Future work
-
-* Write documentation
-* Improve Regex
-* Create suite of unit tests
-
-# Contributions are welcome!
